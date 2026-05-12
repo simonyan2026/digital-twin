@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T09:00:00+08:00",
+  "lastUpdated": "2026-05-12T09:00:00+08:00",
   "overallScore": 38,
   "targetScore": 100,
   "estimatedFullDigitization": "2029-Q2",
@@ -246,6 +246,11 @@
       "date": "2026-05-11",
       "event": "Daily Check-in",
       "detail": "No user interactions since 5/8 (5/9 Friday + 5/10~5/11 weekend). All dimension scores unchanged. Overall remains 38%."
+    },
+    {
+      "date": "2026-05-12",
+      "event": "Daily Check-in",
+      "detail": "Monday morning. No user interactions since 5/11 (weekend). All dimension scores unchanged. Overall remains 38%."
     }
   ]
 }
